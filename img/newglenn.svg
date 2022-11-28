@@ -3,19 +3,23 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 680.2 1197.5" style="enable-background:new 0 0 680.2 1197.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#3543E0;stroke:#3543E0;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
-	.st2{fill:none;}
-	.st3{fill:#FFFFFF;}
-	.st4{font-family:'PTSans-Caption';}
-	.st5{font-size:12px;}
-	.st6{font-size:14px;}
-	.st7{fill:#E4E9F2;}
-	.st8{display:none;}
+	.st0{fill:#1D1D1B;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#3543E0;stroke:#3543E0;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'PTSans-Caption';}
+	.st6{font-size:12px;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{font-size:14px;}
+	.st9{fill:#E4E9F2;}
+	.st10{display:none;}
+	.st11{fill:#1D1D1B;}
 </style>
-<g id="Capa_3">
+<g id="Capa_2">
+	<rect x="0" y="3.8" class="st0" width="680.2" height="1196.1"/>
 </g>
-<g id="Capa_4">
+<g id="Capa_3">
 </g>
 <g id="Capa_1">
 	
@@ -2558,45 +2562,58 @@ VFqkPVLVPPc5358SkSvcMXzDMI5MvkQTe5UuOO/pdMk/iMhnM7rUDcOoD7+rI3T3qQV+Jc75D1Uj
 WtOpH+uDssh+nTShXPKaivCts5KJYRguWV2h6HGM1MCjQS82ufceUkOlfdpdvlMDjbfNAt4wDMMw
 jAJE5P8Aw9ME58Etw/AAAAAASUVORK5CYII=" transform="matrix(0.2833 0 0 0.2833 329.1351 63.9182)">
 	</image>
-	<circle class="st0" cx="519.2" cy="536.9" r="3.4"/>
-	<circle class="st0" cx="501.1" cy="914.4" r="3.4"/>
-	<circle class="st0" cx="501.1" cy="1072.7" r="3.4"/>
-	<polyline class="st1" points="316,63.9 297.6,63.9 297.6,1115.6 316,1115.6 	"/>
-	<rect x="264" y="881.7" class="st2" width="40.5" height="32.7"/>
-	<text transform="matrix(1 0 0 1 264.0015 890.1492)" class="st3 st4 st5">95 m</text>
-	<polyline class="st1" points="453.1,62.9 465.7,62.9 465.8,297.2 453.1,297.2 	"/>
-	<rect x="474.9" y="109.6" class="st2" width="128.8" height="89.3"/>
-	<text transform="matrix(1 0 0 1 474.8691 117.9943)" class="st3 st4 st5">Más del doble del </text>
-	<text transform="matrix(1 0 0 1 474.8691 132.3943)" class="st3 st4 st5">volumen de carga </text>
-	<text transform="matrix(1 0 0 1 474.8691 146.7943)" class="st3 st4 st5">que caulquier cohete </text>
-	<text transform="matrix(1 0 0 1 474.8691 161.1943)" class="st3 st4 st5">de lanzamiento</text>
-	<line class="st1" x1="409" y1="536.9" x2="515.7" y2="536.9"/>
-	<rect x="482.4" y="552.1" class="st2" width="95.7" height="89.3"/>
-	<text transform="matrix(1 0 0 1 482.375 560.5204)" class="st3 st4 st5">Cuatro aletas </text>
-	<text transform="matrix(1 0 0 1 482.375 574.9205)" class="st3 st4 st5">como superficie </text>
-	<text transform="matrix(1 0 0 1 482.375 589.3204)" class="st3 st4 st5">de control </text>
-	<text transform="matrix(1 0 0 1 482.375 603.7205)" class="st3 st4 st5">aerodinámico</text>
-	<line class="st1" x1="449.9" y1="914.4" x2="497.7" y2="914.4"/>
-	<text transform="matrix(1 0 0 1 473.5664 938.9229)" class="st3 st4 st5">Dos tracas ayudan a </text>
-	<text transform="matrix(1 0 0 1 473.7987 952.1783)" class="st3 st4 st5">la primera etapa </text>
-	<text transform="matrix(1 0 0 1 473.5665 965.7322)" class="st3 st4 st5">que será reutilizada</text>
-	<line class="st1" x1="449.9" y1="1072.5" x2="497.7" y2="1072.5"/>
-	<rect x="495.5" y="1078.2" class="st2" width="100.9" height="52.4"/>
-	<text transform="matrix(1 0 0 1 495.5029 1086.5846)" class="st3 st4 st5">las seis patas </text>
-	<text transform="matrix(1 0 0 1 495.5029 1100.9846)" class="st3 st4 st5">aseguran el </text>
-	<text transform="matrix(1 0 0 1 495.5029 1115.3846)" class="st3 st4 st5">aterrizaje</text>
-	<circle class="st1" cx="501.1" cy="914.4" r="3.4"/>
 	<circle class="st1" cx="519.2" cy="536.9" r="3.4"/>
+	<circle class="st1" cx="501.1" cy="914.4" r="3.4"/>
 	<circle class="st1" cx="501.1" cy="1072.7" r="3.4"/>
-	<polyline class="st1" points="145.8,838.9 128.7,838.9 128.7,1116.5 145.8,1116.5 	"/>
-	<rect x="100.2" y="881.7" class="st2" width="40.5" height="32.7"/>
-	<text transform="matrix(1 0 0 1 100.1519 890.1492)" class="st3 st4 st5">18 m</text>
-	<rect x="154.5" y="1134.7" class="st2" width="126.2" height="33.4"/>
-	<text transform="matrix(1 0 0 1 154.5217 1144.524)" class="st3 st4 st6">New Shepard</text>
-	<rect x="369.9" y="1134.7" class="st2" width="126.2" height="33.4"/>
-	<text transform="matrix(1 0 0 1 369.9246 1144.524)" class="st3 st4 st6">New Glenn</text>
+	<line class="st2" x1="311.6" y1="67.2" x2="311.6" y2="1118.9"/>
+	<path class="st2" d="M297.6,63.9"/>
+	<path class="st2" d="M311.6,63.9"/>
+	<rect x="264" y="881.7" class="st3" width="40.5" height="32.7"/>
+	<text transform="matrix(1 0 0 1 275.5669 893.923)" class="st4 st5 st6">95 m</text>
+	<line class="st2" x1="465.7" y1="65.9" x2="465.8" y2="297.2"/>
+	<line class="st2" x1="465.7" y1="62.9" x2="465.7" y2="65.9"/>
+	<line class="st2" x1="464.6" y1="62.9" x2="464.6" y2="62.9"/>
+	<line class="st2" x1="464.6" y1="62.9" x2="464.6" y2="62.9"/>
+	<path class="st2" d="M464.6,62.9"/>
+	<line class="st2" x1="455.6" y1="62.9" x2="455.6" y2="62.9"/>
+	<path class="st2" d="M455.6,62.9"/>
+	<line class="st2" x1="453.1" y1="62.9" x2="453.3" y2="62.9"/>
+	<rect x="474.9" y="109.6" class="st3" width="128.8" height="89.3"/>
+	<text transform="matrix(1 0 0 1 474.8691 117.9943)" class="st4 st5 st6">Más del doble del </text>
+	<text transform="matrix(1 0 0 1 474.8691 132.3943)" class="st4 st5 st6">volumen de carga </text>
+	<text transform="matrix(1 0 0 1 474.8691 146.7943)" class="st4 st5 st6">que caulquier cohete </text>
+	<text transform="matrix(1 0 0 1 474.8691 161.1943)" class="st4 st5 st6">de lanzamiento</text>
+	<line class="st2" x1="409" y1="536.9" x2="515.7" y2="536.9"/>
+	<rect x="482.4" y="552.1" class="st3" width="95.7" height="89.3"/>
+	<text transform="matrix(1 0 0 1 482.375 560.5204)" class="st4 st5 st6">Cuatro aletas </text>
+	<text transform="matrix(1 0 0 1 482.375 574.9205)" class="st4 st5 st6">como superficie </text>
+	<text transform="matrix(1 0 0 1 482.375 589.3204)" class="st4 st5 st6">de control </text>
+	<text transform="matrix(1 0 0 1 482.375 603.7205)" class="st4 st5 st6">aerodinámico</text>
+	<line class="st2" x1="449.9" y1="914.4" x2="497.7" y2="914.4"/>
+	<rect x="475.1" y="925.2" class="st3" width="121.4" height="74.8"/>
+	<text transform="matrix(1 0 0 1 475.0989 933.7209)" class="st7 st6">Lorem ipsum dolor si</text>
+	<text transform="matrix(1 0 0 1 475.0713 933.6237)" class="st4 st5 st6">Dos tracas ayudan a </text>
+	<text transform="matrix(1 0 0 1 475.0713 948.0236)" class="st4 st5 st6">la primera etapa </text>
+	<text transform="matrix(1 0 0 1 475.0713 962.4236)" class="st4 st5 st6">que será reutilizada</text>
+	<line class="st2" x1="449.9" y1="1072.5" x2="497.7" y2="1072.5"/>
+	<rect x="495.5" y="1078.2" class="st3" width="100.9" height="52.4"/>
+	<text transform="matrix(1 0 0 1 495.5029 1086.5846)" class="st4 st5 st6">las seis patas </text>
+	<text transform="matrix(1 0 0 1 495.5029 1100.9846)" class="st4 st5 st6">aseguran el </text>
+	<text transform="matrix(1 0 0 1 495.5029 1115.3846)" class="st4 st5 st6">aterrizaje</text>
+	<circle class="st2" cx="501.1" cy="914.4" r="3.4"/>
+	<circle class="st2" cx="519.2" cy="536.9" r="3.4"/>
+	<circle class="st2" cx="501.1" cy="1072.7" r="3.4"/>
+	<line class="st2" x1="149.6" y1="841.3" x2="149.6" y2="1118.9"/>
+	<path class="st2" d="M141.5,841.3"/>
+	<line class="st2" x1="158.6" y1="841.3" x2="158.6" y2="841.3"/>
+	<rect x="100.2" y="881.7" class="st3" width="40.5" height="32.7"/>
+	<text transform="matrix(1 0 0 1 113.5665 893.9224)" class="st4 st5 st6">18 m</text>
+	<rect x="154.5" y="1134.7" class="st3" width="126.2" height="33.4"/>
+	<text transform="matrix(1 0 0 1 154.5217 1144.524)" class="st4 st5 st8">New Shepard</text>
+	<rect x="369.9" y="1134.7" class="st3" width="126.2" height="33.4"/>
+	<text transform="matrix(1 0 0 1 369.9246 1144.524)" class="st4 st5 st8">New Glenn</text>
 	<g id="Capa_2_00000183246117939550554960000004914302349777888191_">
-		<path class="st7" d="M171.4,1097.5c0-0.2,0-0.4,0-0.6s0.1-0.4,0-0.6c-0.1,0-0.2,0-0.3,0c0,0.2,0,0.5,0,0.7c0,0.3,0,0.7,0,1
+		<path class="st9" d="M171.4,1097.5c0-0.2,0-0.4,0-0.6s0.1-0.4,0-0.6c-0.1,0-0.2,0-0.3,0c0,0.2,0,0.5,0,0.7c0,0.3,0,0.7,0,1
 			C171.2,1097.8,171.3,1097.7,171.4,1097.5z M235.3,1068.8c0,0.8,0,1.5,0,2.3c0,0.1,0,0.2-0.1,0.2c0,0,0,0,0,0.1
 			c-0.2,0.2-0.5,0.4-0.7,0.5l0,0c0,0.1,0,0.3,0.1,0.4c0,0.2,0,0.4,0,0.6c0.3,0.1,0.5,0.5,0.6,0.6c0.2,0.4,0.3,1,0,1.4
 			c0,0.1-0.1,0.1-0.2,0.2c0.1,0.7,0.2,1.3,0.2,2c0.1,1,0.1,1.9,0,2.9c0,1,0,2.1,0.1,3.1c0,1.7,0.1,3.4,0.1,5.1
@@ -2668,7 +2685,7 @@ jAJE5P8Aw9ME58Etw/AAAAAASUVORK5CYII=" transform="matrix(0.2833 0 0 0.2833 329.13
 			c0.5,0.3,1,0.6,1.4,0.9c0.3,0.2,0.6,0.4,0.8,0.5c0.1,0,0.2,0.1,0.3,0.2c0.1,0.1,0.1,0.2,0.1,0.4c0,0.1,0,0.2,0,0.3
 			C235.3,1064.7,235.3,1066.7,235.3,1068.8z"/>
 	</g>
-	<g id="Capa_2_00000065041977837527156550000004468718297515670695_" class="st8">
+	<g id="Capa_2_00000065041977837527156550000004468718297515670695_" class="st10">
 		
 			<image style="display:inline;overflow:visible;enable-background:new    ;" width="541" height="3713" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAh4AAA5+CAYAAAA7l2NkAAAACXBIWXMAACcPAAAnDwGrs+/JAAAg
 AElEQVR4nOzdCZCk6Vkf+KfurquP6XPuq3t6rp6eq+e+L43mnmE0MxrNpdGNgcAHFpJsLxgfEYvX
@@ -5209,7 +5226,7 @@ u95R8/03DlA+zWnWj/iFckkTN6mjjLKPxfx2SSlFEASVRF2j0PMYyAFIPt903M+cY+OmRu5GP8oB
 xwGxnhcEQRAEQRAEQRAEIXsQ0f8BUf4HJtXMjGYAAAAASUVORK5CYII=" transform="matrix(0.2833 0 0 0.2833 286.6165 70.8552)">
 		</image>
 	</g>
-	<g id="Capa_2_00000126322852377557715320000005313012334170448772_" class="st8">
+	<g id="Capa_2_00000126322852377557715320000005313012334170448772_" class="st10">
 		
 			<image style="display:inline;overflow:visible;enable-background:new    ;" width="541" height="3713" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhwAAA58CAYAAAByqhJSAAAACXBIWXMAACcPAAAnDwGrs+/JAAAg
 AElEQVR4nOzdCZTl110f+Ft719aLelVra7W61ZJarVZLau37Zu0b2iyrJVneCXDIQoztLBCynBMy
@@ -7752,5 +7769,6 @@ xXhJaztF510NwwiGfqrhMVS72Knp/p4GJp/WdOrH+qAssk8nTSiXvKYifGutZGIYhktWVyh6HKM0
 	</g>
 	<g id="Capa_2_00000119805258164031376550000011575056775105938351_">
 	</g>
+	<rect x="446.4" y="57" class="st11" width="18.5" height="9"/>
 </g>
 </svg>
