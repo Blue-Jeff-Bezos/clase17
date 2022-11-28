@@ -246,18 +246,26 @@ Los asientos son reclinables y cuentan con 5 puntos de arnés. En ellos los pasa
         </script>
 
         <!-- * * * * * * * * *
-
-            COPIE HASTA ACÁ
+                                    
+        COPIE DESDE ACÁ
 
         * * * * * * * * * * -->
-" class="link-secondary">Isabela Aylwin</a>,<a href="https://github.com/IsabelaAylwin" class="link-secondary">Trinidad Jerez</a>, <a href="#" class="link-secondary">Fernanda Rozas</a>,
+
+        <aside>
+            <div class="container">
+                <div class="row py-5">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto small">
+                        <dl>
+                            <dt>Créditos:</dt>
+                            <dd>
+                                Infografía digital desarrollada por <a href="#" class="link-secondary">Isabela Aylwin</a>,<a href="#" class="link-secondary">Trinidad Jerez</a>, <a href="#" class="link-secondary">Fernanda Rozas</a>,
                                 <a href="#" class="link-secondary">Rocío Villegas</a>.
                             </dd>
                         </dl>
                         <dl>
                             <dt>Fuentes de información:</dt>
                             <dd>
-                                La información presentada se apoya en consultas a <a href="https://www.elespanol.com/omicrono/tecnologia/20180718/turismo-espacial-blue-origin-prueba-capsula-viajeros/323468925_0.html" class="link-secondary">Blue Origin prueba con éxito su cápsula para viajeros</a>, <a href="https://www.space.com/jeff-bezos-blue-origin-first-astronaut-launch" class="link-secondary">Jeff Bezos se lanza al espacio en el primer vuelo de astronautas de Blue Origin</a>,
+                                La información presentada se apoya en consultas a <a href="#" class="link-secondary">Título del recurso</a>, <a href="#" class="link-secondary">Título del recurso</a>,
                                 <a href="#" class="link-secondary">Título del recurso</a>, <a href="#" class="link-secondary">Título del recurso</a>, <a href="#" class="link-secondary">Título del recurso</a>.
                             </dd>
                         </dl>
@@ -288,7 +296,7 @@ Los asientos son reclinables y cuentan con 5 puntos de arnés. En ellos los pasa
                 const data = await consulta.json();
                 const listado = document.getElementById("relacionadas");
                 data.forEach((x, i) => {
-                    if (i != 7) {
+                    if (i != 8) {
                         listado.innerHTML += '<li class="position-relative"><dl><dt>' + x.title + ': ' + x.subtitle + '</dt><dd class="small">' + x.short + ' <a href="' + x.url + '" class="fst-normal link-secondary stretched-link">[ver más]</a></dd><dl>';
                     }
                 });
