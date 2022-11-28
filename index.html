@@ -242,7 +242,7 @@ Los asientos son reclinables y cuentan con 5 puntos de arnés. En ellos los pasa
                 const data = await consulta.json();
                 const listado = document.getElementById("relacionadas");
                 data.forEach((x, i) => {
-                    if (i != 6) {
+                    if (i != 7) {
                         listado.innerHTML += '<li class="position-relative"><dl><dt>' + x.title + ': ' + x.subtitle + '</dt><dd class="small">' + x.short + ' <a href="' + x.url + '" class="fst-normal link-secondary stretched-link">[ver más]</a></dd><dl>';
                     }
                 });
